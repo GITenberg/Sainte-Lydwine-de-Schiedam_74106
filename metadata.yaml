@@ -1,0 +1,41 @@
+_repo: Sainte-Lydwine-de-Schiedam_74106
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Joris Karl
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Jorris-Karl
+    - Huysmans, Jaris-Karl
+    - Huysmans, Joris-Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+    - https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: ''
+gutenberg_issued: '2024-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74106'
+  lccn: 02002186
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1525543z
+pgterms:marc905: 20240717135204huysmans
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bP.-V. Stock, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lydwina, Saint, 1380-1433'
+- !lcc 'PQ'
+- GITenberg
+title: Sainte Lydwine de Schiedam
+url: http://www.gutenberg.org/ebooks/74106
