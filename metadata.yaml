@@ -1,5 +1,8 @@
 _repo: Sainte-Lydwine-de-Schiedam_74106
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74106-h/images/cover.jpg
 creator:
   author:
     agent_name: Huysmans, J.-K. (Joris-Karl)
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Joris-Karl_Huysmans
     - https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74106#Sainte-Lydwine-de-Schiedam
 gutenberg_issued: '2024-07-23'
 gutenberg_type: Text
 identifiers:
